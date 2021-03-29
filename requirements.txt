@@ -20,7 +20,7 @@ Jinja2==2.11.1
 MarkupSafe==1.1.1
 packaging==20.1
 pguard==0.4.0
-Pygments==2.5.2
+Pygments==2.7.4
 pyparsing==2.4.6
 pysqlite3==0.4.2
 pytz==2019.3
